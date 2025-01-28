@@ -1,0 +1,159 @@
+header {
+  background-color: black;
+  color:white;
+  padding: 30px;
+  
+}
+nav ul {list-style:none;}
+
+nav ul li{
+  display: inline;
+  margin-right: 20px;
+}
+nav ul li a {
+  color:white;
+  text-decoration: none;
+}
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background-color:lightseagreen
+} 
+
+
+.hero h1{
+  font-size: 3.3em;
+  margin-bottom: 30px; 
+  color: aliceblue; 
+
+  
+}
+.hero h1{
+  font-size: 3.3em;
+  margin-bottom: 30px; 
+  color: aliceblue; 
+
+  
+}
+
+.hero p{font-size: 0.8cm;
+  margin-bottom: 30px;
+  
+}
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: lightseagreen;
+  color:beige;
+  text-decoration: none;
+  border-radius: 5px;
+  size-adjust: 10px;
+  
+  
+}
+
+.btnn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: lightslategray;
+  color:beige;
+  text-decoration: none;
+  border-radius: 5px;
+  size-adjust: 10px;
+  float:right;
+  
+}
+
+.btnnn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: lightslategray;
+  color:beige;
+  text-decoration: none;
+  border-radius: 5px;
+  size-adjust: 10px;
+  float:right;
+  margin-right: 0.5cm;
+  
+}
+  
+.bt {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color:lightslategray;
+  color:beige;
+  text-decoration: none;
+  border-radius: 5px;
+  size-adjust: 10px;
+ 
+}
+
+
+
+.bt:active {
+  transform: scale(0.9);rotate: (3deg);
+  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
+  100%;
+  transition: 0.5s;
+}
+
+.bt::after {
+  transform: scale(0.9);rotate: (3deg);
+  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
+  100%;
+  transition: 0.5s;
+}
+
+
+
+.btn:active {
+  transform: scale(0.9);rotate: (3deg);
+  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
+  100%;
+  transition: 0.5s;
+}
+
+.btn::after {
+  transform: scale(0.9);rotate: (3deg);
+  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
+  100%;
+  transition: 0.5s;
+}
+
+
+
+.btnn:active {
+  transform: scale(0.9);rotate: (3deg);
+  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
+  100%;
+  transition: 0.5s;
+}
+
+.btnn::after {
+  transform: scale(0.9);rotate: (3deg);
+  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
+  100%;
+  transition: 0.5s;
+}
+
+
+
+.btnnn:active {
+  transform: scale(0.9);rotate: (3deg);
+  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
+  100%;
+  transition: 0.5s;
+}
+
+.btnnn::after {
+  transform: scale(0.9);rotate: (3deg);
+  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
+  100%;
+  transition: 0.5s;
+}
+
+
+
+
+
+
