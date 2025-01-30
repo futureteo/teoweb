@@ -92,15 +92,13 @@ nav ul li a {
 
 .bt:active {
   transform: scale(0.9);rotate: (3deg);
-  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
-  100%;
+ 
   transition: 0.5s;
 }
 
 .bt::after {
   transform: scale(0.9);rotate: (3deg);
-  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
-  100%;
+ 
   transition: 0.5s;
 }
 
@@ -108,15 +106,12 @@ nav ul li a {
 
 .btn:active {
   transform: scale(0.9);rotate: (3deg);
-  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
-  100%;
+ 
   transition: 0.5s;
 }
 
 .btn::after {
   transform: scale(0.9);rotate: (3deg);
-  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
-  100%;
   transition: 0.5s;
 }
 
@@ -124,15 +119,11 @@ nav ul li a {
 
 .btnn:active {
   transform: scale(0.9);rotate: (3deg);
-  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
-  100%;
   transition: 0.5s;
 }
 
 .btnn::after {
   transform: scale(0.9);rotate: (3deg);
-  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
-  100%;
   transition: 0.5s;
 }
 
@@ -140,17 +131,39 @@ nav ul li a {
 
 .btnnn:active {
   transform: scale(0.9);rotate: (3deg);
-  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
-  100%;
   transition: 0.5s;
 }
 
 .btnnn::after {
   transform: scale(0.9);rotate: (3deg);
-  background:radial-gradient(circle farthest-corner at 10% 20%,) rgba(58, 10, 230, 0.384)17%, rgba(111, 36, 197)
-  100%;
   transition: 0.5s;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
